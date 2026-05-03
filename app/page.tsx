@@ -117,7 +117,7 @@ export default function Home() {
 
         // label
         ctx.fillStyle = "#d8d8d8";
-        ctx.font = "bold 18px system-ui, -apple-system, sans-serif";
+        ctx.font = "bold 22px system-ui, -apple-system, sans-serif";
         wrapText(ctx, label, x + TILE_W / 2, y + TILE_H + 22, TILE_W, 22);
       });
 
